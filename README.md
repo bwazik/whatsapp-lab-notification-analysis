@@ -17,7 +17,7 @@ This repository contains the full research and analysis deliverable for the back
 **Accordingly, this deliverable is a research report and strategic analysis.**
 No live implementation, running code, or demo video was requested in the original brief, and none has been submitted. The scope was clearly defined as a consultant-style technical and business comparison, which is what this document and the accompanying presentation represent.
 
-The presentation file (`WhatsApp_vs_SMS_Egypt_v2.pptx`) contains the full visual version of this analysis with charts, comparison tables, architecture diagrams, and a final recommendation slide.
+The presentation file (`WhatsApp_vs_SMS_Egypt.pptx`) contains the full visual version of this analysis with charts, comparison tables, architecture diagrams, and a final recommendation slide.
 
 ---
 
